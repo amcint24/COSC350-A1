@@ -17,24 +17,41 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="361" column="23" selection-start-line="361" selection-start-column="23" selection-end-line="361" selection-end-column="23" />
+            <state relative-caret-position="702">
+              <caret line="321" lean-forward="true" selection-end-line="479" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#getRandomSolution#0;class#Main#0" />
+                <element signature="method#main#0;class#Main#0" />
+                <element signature="docComment;method#scoreSolution#0;class#Main#0" />
                 <element signature="method#scoreSolution#0;class#Main#0" />
+                <element signature="docComment;method#climb#0;class#Main#0" />
+                <element signature="method#climb#0;class#Main#0" />
+                <element signature="docComment;method#printSolution#0;class#Main#0" />
+                <element signature="method#printSolution#0;class#Main#0" />
+                <element signature="docComment;method#printIntro#0;class#Main#0" />
+                <element signature="method#printIntro#0;class#Main#0" />
+                <element signature="docComment;method#getRandomSolution#0;class#Main#0" />
+                <element signature="method#getRandomSolution#0;class#Main#0" />
+                <element signature="docComment;class#Solution#0" />
+                <element signature="class#Solution#0" />
+                <element signature="docComment;method#Solution#0;class#Solution#0" />
                 <element signature="method#Solution#0;class#Solution#0" />
-                <element signature="n#!!doc;n#possibleColours#0;n#Car#0" />
-                <element signature="e#7944#7945#0" expanded="true" />
-                <element signature="e#8017#8018#0" expanded="true" />
-                <element signature="e#8066#8067#0" expanded="true" />
-                <element signature="e#8139#8140#0" expanded="true" />
-                <element signature="e#8176#8177#0" expanded="true" />
-                <element signature="e#8249#8250#0" expanded="true" />
-                <element signature="e#8262#8263#0" expanded="true" />
-                <element signature="e#8335#8336#0" expanded="true" />
-                <element signature="e#8376#8377#0" expanded="true" />
-                <element signature="e#8449#8450#0" expanded="true" />
+                <element signature="docComment;method#executeSwap#0;class#Solution#0" />
+                <element signature="method#executeSwap#0;class#Solution#0" />
+                <element signature="docComment;class#Car#0" />
+                <element signature="docComment;method#Car#0;class#Car#0" />
+                <element signature="method#Car#0;class#Car#0" />
+                <element signature="docComment;method#departsAt#0;class#Car#0" />
+                <element signature="docComment;method#intToString#0;class#Car#0" />
+                <element signature="method#intToString#0;class#Car#0" />
+                <element signature="docComment;method#stringToInt#0;class#Car#0" />
+                <element signature="method#stringToInt#0;class#Car#0" />
+                <element signature="docComment;method#getIndexOfString#0;class#Car#0" />
+                <element signature="method#getIndexOfString#0;class#Car#0" />
+                <element signature="docComment;method#getRenterText#0;class#Car#0" />
+                <element signature="method#getRenterText#0;class#Car#0" />
+                <element signature="e#17070#17385#0" />
+                <element signature="method#getMakeText#0;class#Car#0" />
               </folding>
             </state>
           </provider>
@@ -56,6 +73,9 @@
       <find>Syste</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -70,11 +90,13 @@
     <option name="width" value="2151" />
     <option name="height" value="1799" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,11 +122,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -153,7 +175,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2136" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098143235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09914939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -161,16 +183,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32972693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39876354" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35600206" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936302" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39875713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35577422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972693" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32855362" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3283273" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -192,34 +214,51 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="321" lean-forward="true" selection-end-line="479" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="docComment;method#scoreSolution#0;class#Main#0" />
+            <element signature="method#scoreSolution#0;class#Main#0" />
+            <element signature="docComment;method#climb#0;class#Main#0" />
+            <element signature="method#climb#0;class#Main#0" />
+            <element signature="docComment;method#printSolution#0;class#Main#0" />
+            <element signature="method#printSolution#0;class#Main#0" />
+            <element signature="docComment;method#printIntro#0;class#Main#0" />
+            <element signature="method#printIntro#0;class#Main#0" />
+            <element signature="docComment;method#getRandomSolution#0;class#Main#0" />
+            <element signature="method#getRandomSolution#0;class#Main#0" />
+            <element signature="docComment;class#Solution#0" />
+            <element signature="class#Solution#0" />
+            <element signature="docComment;method#Solution#0;class#Solution#0" />
+            <element signature="method#Solution#0;class#Solution#0" />
+            <element signature="docComment;method#executeSwap#0;class#Solution#0" />
+            <element signature="method#executeSwap#0;class#Solution#0" />
+            <element signature="docComment;class#Car#0" />
+            <element signature="docComment;method#Car#0;class#Car#0" />
+            <element signature="method#Car#0;class#Car#0" />
+            <element signature="docComment;method#departsAt#0;class#Car#0" />
+            <element signature="docComment;method#intToString#0;class#Car#0" />
+            <element signature="method#intToString#0;class#Car#0" />
+            <element signature="docComment;method#stringToInt#0;class#Car#0" />
+            <element signature="method#stringToInt#0;class#Car#0" />
+            <element signature="docComment;method#getIndexOfString#0;class#Car#0" />
+            <element signature="method#getIndexOfString#0;class#Car#0" />
+            <element signature="docComment;method#getRenterText#0;class#Car#0" />
+            <element signature="method#getRenterText#0;class#Car#0" />
+            <element signature="e#17070#17385#0" />
+            <element signature="method#getMakeText#0;class#Car#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="361" column="23" selection-start-line="361" selection-start-column="23" selection-end-line="361" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getRandomSolution#0;class#Main#0" />
-            <element signature="method#scoreSolution#0;class#Main#0" />
-            <element signature="method#Solution#0;class#Solution#0" />
-            <element signature="n#!!doc;n#possibleColours#0;n#Car#0" />
-            <element signature="e#7944#7945#0" expanded="true" />
-            <element signature="e#8017#8018#0" expanded="true" />
-            <element signature="e#8066#8067#0" expanded="true" />
-            <element signature="e#8139#8140#0" expanded="true" />
-            <element signature="e#8176#8177#0" expanded="true" />
-            <element signature="e#8249#8250#0" expanded="true" />
-            <element signature="e#8262#8263#0" expanded="true" />
-            <element signature="e#8335#8336#0" expanded="true" />
-            <element signature="e#8376#8377#0" expanded="true" />
-            <element signature="e#8449#8450#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
